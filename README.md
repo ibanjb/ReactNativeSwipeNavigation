@@ -3,11 +3,10 @@
   <img src="./assets/logo.png">
 </p>
 
-**React Native demo using components like Swipe, Navigation or Native Base**
-
 <p align="center">
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
+**React Native demo using components like Swipe, Navigation or Native Base** 
 
 ## Table of Contents
 * [Requirements](#requirements)
